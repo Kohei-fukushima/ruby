@@ -1,2 +1,2 @@
 puts "webcamp".upcase
-puts 
+puts "変更"
